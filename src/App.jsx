@@ -51,7 +51,7 @@ function App() {
 }
 
 export default App
-// ham addValue kon execute nahi kar rahe hai nahi to wo sidha update hojayegi
+// ham addValue ko execute nahi kar rahe hai nahi to wo sidha update hojayegi
 // hame click karnepe hi update karna hai
 // variable ki values update ho rahi hai but problem aa rahi hai in ui updation
 // ui updation react khud handle karta hai
